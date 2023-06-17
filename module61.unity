@@ -15750,7 +15750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 361003
+  translationName: 361005
   FallbackText: Each wind turns the adjacent high-frequency icon into a wind
 --- !u!114 &324265377
 MonoBehaviour:
@@ -17152,8 +17152,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -261.25, y: -146.888}
-  m_SizeDelta: {x: 522.5, y: 74.303}
+  m_AnchoredPosition: {x: -261.25, y: -138.93}
+  m_SizeDelta: {x: 522.5, y: 58.388}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &347978538
 MonoBehaviour:
@@ -42532,8 +42532,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 276, y: -146.888}
-  m_SizeDelta: {x: 522.5, y: 74.303}
+  m_AnchoredPosition: {x: 268.63, y: -138.931}
+  m_SizeDelta: {x: 507.75, y: 58.388}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &820527884
 MonoBehaviour:
@@ -42596,7 +42596,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25
+  m_fontSize: 22.95
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -48195,7 +48195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 361014
+  translationName: 361008
   FallbackText: Cold Pollce Woman Fixed WILD
 --- !u!114 &933299872
 MonoBehaviour:
@@ -58008,7 +58008,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 361006
+  translationName: 361004
   FallbackText: "El viento se mover\xE1 aleatoriamente a cualquier posici\xF3n y
     se har\xE1 m\xE1s grande dependiendo del n\xFAmero de veces que aparezca"
 --- !u!114 &1109086095
@@ -65111,7 +65111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 361004
+  translationName: 361003
   FallbackText: Each wind will remain on the screen until the end of the freebie
 --- !u!114 &1241480970
 MonoBehaviour:
@@ -70339,7 +70339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 361005
+  translationName: 361006
   FallbackText: Each wind multiplies the free game bonus by +1
 --- !u!114 &1328276585
 MonoBehaviour:
@@ -78341,7 +78341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 361015
+  translationName: 361009
   FallbackText: Close
 --- !u!114 &1467588995
 MonoBehaviour:
@@ -122531,7 +122531,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 361009
+  translationName: 361015
   FallbackText: There ar 4 types of free games to play
 --- !u!114 &2132365791
 MonoBehaviour:
@@ -125728,7 +125728,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 283.74976, y: 6.0700684}
-  m_SizeDelta: {x: 0, y: -264.99994}
+  m_SizeDelta: {x: 0, y: -265}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &6756737099326733195
 MonoBehaviour:
