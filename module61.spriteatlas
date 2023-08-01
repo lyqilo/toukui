@@ -658,6 +658,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 02b7db483bc19714187f6b09d2c19818, type: 3}
   - {fileID: 21300000, guid: 66c95c48c656eba48b738823fa573226, type: 3}
   - {fileID: 21300000, guid: e0a5ed48827fe054db5bfe12d9696121, type: 3}
+  - {fileID: 21300000, guid: 4efc8058db84e6a4fa4bb8f15b546d0a, type: 3}
   - {fileID: 21300000, guid: 7de68158e56e29343a4f9902f2648040, type: 3}
   - {fileID: 21300000, guid: 716722585f12fb1469db4a6fd568e52d, type: 3}
   - {fileID: 21300000, guid: 7d21b258636059d41a391f2e65474ab7, type: 3}
@@ -949,7 +950,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: bab885fcbe1e4f442ab763f6d27e2669, type: 3}
   - {fileID: 21300000, guid: 373496fc6cb39714889f888ee6d83df3, type: 3}
   - {fileID: 21300000, guid: d0b7dbfcacf1ef0498b4570d38782d72, type: 3}
-  - {fileID: 21300000, guid: eced830d1493b6c48b994ec045f31223, type: 3}
   - {fileID: 21300000, guid: a293ea0d883b46040b4cf36b834863d1, type: 3}
   - {fileID: 21300000, guid: 07160d0dd09f7eb408e025c4d7783d84, type: 3}
   - {fileID: 21300000, guid: 3eb0d11d5b0ab2b41b574e5839c77d6b, type: 3}
@@ -1701,6 +1701,7 @@ SpriteAtlas:
   - peeping_main_12
   - peeping_freeani_0_0_15
   - peeping_anipng_icon_12_04
+  - dating_icon_jinbi
   - peeping_freeani_lv3x3_04
   - peeping_anipng_icon_6_16
   - peeping_anipng_icon_10_02
@@ -1992,7 +1993,6 @@ SpriteAtlas:
   - xhy_megawin15
   - peeping_anipng_icon_2_12
   - peeping_fg_jiesuan_3
-  - tk_icon
   - peeping_anipng_icon_14_3x3_02
   - peeping_anipng_icon_13_04
   - peeping_freeani_lv1x2_13
